@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F87FF,100:8EC5FC&height=200&section=header&text=Kim%20Minseo&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" alt="header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=24&pause=1000&color=4F87FF&center=true&vCenter=true&width=720&lines=AI%EA%B0%80+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%93%B0%EB%8A%94+%EC%8B%9C%EB%8C%80%2C+%EB%8D%94+%EC%A2%8B%EC%9D%80+%EC%A7%88%EB%AC%B8%EC%9D%84+%EB%8D%98%EC%A7%80%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EC%A7%9C%EA%B8%B0+%EC%A0%84%EC%97%90+%EC%A7%9C%EC%A7%80+%EC%95%8A%EC%9D%84+%EB%B0%A9%EB%B2%95%EB%B6%80%ED%83%80+%EC%83%9D%EA%B0%81%ED%95%A9%EB%8B%88%EB%8B%A4;%EB%8B%A4%EB%A5%B8%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4+%ED%95%98%EB%8A%94+%EC%9D%BC%EC%9D%84+%EA%B6%81%EA%B8%88%ED%95%B4+%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=24&pause=1000&color=4F87FF&center=true&vCenter=true&width=720&lines=%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%A7%9C%EA%B8%B0+%EC%A0%84%EC%97%90+%EC%A7%9C%EC%A7%80+%EC%95%8A%EC%9D%84+%EB%B0%A9%EB%B2%95%EB%B6%80%ED%84%B0%2C+%EA%B8%B0%EB%8A%A5%EC%9D%84+%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0+%EC%A0%84%EC%97%90+%EC%A7%80%EC%9A%B8+%EC%88%98+%EC%9E%88%EB%8A%94%EC%A7%80%EB%B6%80%ED%84%B0+%EB%B4%85%EB%8B%88%EB%8B%A4.;%EB%8B%A4%EB%A5%B8%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4+%ED%95%98%EB%8A%94+%EC%9D%BC%EC%9D%84+%EA%B6%81%EA%B8%88%ED%95%B4+%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
 
 </div>
 
