@@ -2,14 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F87FF,100:8EC5FC&height=200&section=header&text=Kim%20Minseo&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" alt="header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=24&pause=1000&color=4F87FF&center=true&vCenter=true&width=720&lines=%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%A7%9C%EA%B8%B0+%EC%A0%84%EC%97%90+%EC%A7%9C%EC%A7%80+%EC%95%8A%EC%9D%84+%EB%B0%A9%EB%B2%95%EB%B6%80%ED%84%B0%2C+%EA%B8%B0%EB%8A%A5%EC%9D%84+%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0+%EC%A0%84%EC%97%90+%EC%A7%80%EC%9A%B8+%EC%88%98+%EC%9E%88%EB%8A%94%EC%A7%80%EB%B6%80%ED%84%B0+%EB%B4%85%EB%8B%88%EB%8B%A4.;%EB%8B%A4%EB%A5%B8%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4+%ED%95%98%EB%8A%94+%EC%9D%BC%EC%9D%84+%EA%B6%81%EA%B8%88%ED%95%B4+%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=24&pause=1000&color=4F87FF&center=true&vCenter=true&width=720&lines=%EA%B8%B0%EB%8A%A5%EC%9D%84+%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0+%EC%A0%84%EC%97%90+%EC%B6%94%EA%B0%80%ED%95%98%EC%A7%80+%EC%95%8A%EC%95%84%EB%8F%84+%EB%90%98%EB%8A%94+%EB%B0%A9%EB%B2%95%EB%B6%80%ED%84%B0+%EB%B4%85%EB%8B%88%EB%8B%A4.;%EB%8B%A4%EB%A5%B8%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4+%ED%95%98%EB%8A%94+%EC%9D%BC%EC%9D%84+%EA%B6%81%EA%B8%88%ED%95%B4+%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
 `AI가 코드를 쓰는 시대에, 더 좋은 질문을 던지는 개발자`
-`코드를 짜기 전에 짜지 않을 방법부터, 기능을 추가하기 전에 지울 수 있는지부터 봅니다.`
+`기능을 추가하기 전에 추가하지 않아도 되는 방법부터 봅니다.`
 
 - 🎓 컴퓨터공학을 전공하며 임베디드·비전 프로젝트를 경험했고, 지금은 React/Next.js 기반 프론트엔드 개발자로 방향을 잡았습니다.
 - 🛰️ 로봇 원격 제어, On-Device AI 같은 임베디드 영역까지 다뤄본 경험을 바탕으로, 백엔드·하드웨어와의 연동 지점을 정확히 설계하는 프론트엔드를 지향합니다.
