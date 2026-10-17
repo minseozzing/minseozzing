@@ -16,7 +16,7 @@
 
 코사인 유사도 기반 중복 필터링으로 360도 균등 데이터를 수집하는 주인 등록 과정입니다.
 
-https://github.com/user-attachments/assets/여기에-복사한-주소
+https://github.com/user-attachments/assets/ac1e1679-47de-445c-a9cd-10dab2b16e91
 
 🔗 [Live Demo](https://self-driving-shopping-cart.pages.dev/) · [GitHub](https://github.com/minseozzing/Self-Driving-Shopping-Cart)
 https://github.com/user-attachments/assets/ac1e1679-47de-445c-a9cd-10dab2b16e91
