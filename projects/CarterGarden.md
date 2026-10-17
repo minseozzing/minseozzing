@@ -12,4 +12,11 @@
 - Jetson Orin Nano(4GB RAM)에서 YOLOv8 추론을 TensorRT FP16 + 해상도 축소로 8FPS → 25FPS(**3배**)로 끌어올려 실시간 추종 확보
 - 코사인 유사도 기반 중복 필터링으로 주인 등록 시 360도 균등 데이터 수집 보장
 
+## 주인 등록 데모
+
+코사인 유사도 기반 중복 필터링으로 360도 균등 데이터를 수집하는 주인 등록 과정입니다.
+
+https://github.com/user-attachments/assets/여기에-복사한-주소
+
 🔗 [Live Demo](https://self-driving-shopping-cart.pages.dev/) · [GitHub](https://github.com/minseozzing/Self-Driving-Shopping-Cart)
+https://github.com/user-attachments/assets/ac1e1679-47de-445c-a9cd-10dab2b16e91
